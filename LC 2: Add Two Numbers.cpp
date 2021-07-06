@@ -16,11 +16,8 @@ public:
     {
         ListNode* t1= l1;
         ListNode* t2= l2;
-       
         ListNode* curr;
-        
         ListNode* head;
-        
         int carry=0;
         while(!(t1==NULL and t2==NULL))
         {
