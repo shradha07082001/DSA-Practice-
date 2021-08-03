@@ -16,6 +16,5 @@ public:
             }
         }
         return dp[amount];
-        
     }
 };
